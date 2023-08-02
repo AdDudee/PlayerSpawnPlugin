@@ -1,7 +1,7 @@
 #######################
 #                     #
 # PlayerSpawnPlugin   #
-#  By: Ian Jacobazzi  #
+#  By: Bread.         #
 #                     #
 #######################
 
